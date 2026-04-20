@@ -1,0 +1,14 @@
+# Временные рабочие папки (чтобы твои фото не улетели в интернет)
+uploaded_photos/
+renamed_photos/
+debug_crops/
+debug_ocr/
+
+# Системный мусор и кеш
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+
+# Мы НЕ добавляем сюда папку metrics/ и файлы .ipynb, 
+# чтобы они отобразились в твоем репозитории.

@@ -1,0 +1,22 @@
+# Исследования и расчеты (нужны только в коде на GitHub)
+metrics/
+*.ipynb
+.ipynb_checkpoints/
+
+# Демо-фото (клиент подключит свои через Volume)
+demo_photos/
+
+# Рабочие папки (в контейнере они создадутся пустыми)
+uploaded_photos/
+renamed_photos/
+debug_crops/
+debug_ocr/
+
+# Системное
+.git/
+.dockerignore
+__pycache__/
+
+# Лишние файлы отчетов
+*.xlsx
+*.csv

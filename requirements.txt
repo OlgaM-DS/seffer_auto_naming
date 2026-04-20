@@ -1,0 +1,10 @@
+streamlit
+ultralytics
+opencv-python-headless
+pandas
+python-dotenv
+torch --extra-index-url https://pytorch.org
+torchvision --extra-index-url https://pytorch.org
+pillow
+numpy
+openpyxl
