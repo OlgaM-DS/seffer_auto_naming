@@ -12,11 +12,11 @@
 Важно: Замените C:\ВАШ_ПУТЬ_К_ФОТО на реальный путь к папке на вашем компьютере, куда вы хотите сохранять результаты обработки.
 
 ## 🛠 Технологии
-YOLOv11-obb (Object Detection)
-YOLOv11 OCR (Text Recognition)
-Streamlit (Web Interface)
-Docker (Containerization)
+- YOLOv11-obb (Object Detection)
+- YOLOv11 OCR (Text Recognition)
+- Streamlit (Web Interface)
+- Docker (Containerization)
 ## 📁 Структура проекта
-app.py — веб-интерфейс на Streamlit.
-best_obb.pt / best_ocr.pt — обученные веса моделей YOLO.
-pipeline.py — основная логика обработки изображений.
+- app.py — веб-интерфейс на Streamlit.
+- best_obb.pt / best_ocr.pt — обученные веса моделей YOLO.
+- pipeline.py — основная логика обработки изображений.
