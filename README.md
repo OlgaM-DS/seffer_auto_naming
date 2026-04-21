@@ -12,8 +12,8 @@
 Важно: Замените C:\ВАШ_ПУТЬ_К_ФОТО на реальный путь к папке на вашем компьютере, куда вы хотите сохранять результаты обработки.
 
 ## 🛠 Технологии
-YOLOv8 (Object Detection)
-OCR (Text Recognition)
+YOLOv11-obb (Object Detection)
+YOLOv11 OCR (Text Recognition)
 Streamlit (Web Interface)
 Docker (Containerization)
 ## 📁 Структура проекта
